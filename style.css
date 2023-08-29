@@ -1,0 +1,14 @@
+.bodyBackground 
+{
+    background-image:url(aniverio.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+ border-width: 12px;
+    background-color: rgb(201, 185, 230); 
+   border-style: ridge;
+    border-color: rgb(206, 130, 196);
+}
+
